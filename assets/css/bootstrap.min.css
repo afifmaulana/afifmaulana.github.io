@@ -4342,6 +4342,10 @@ input[type=submit].btn-block {
     display: block
 }
 
+.navbar-bottom {
+    background-color: #fff;
+}
+
 .navbar {
     position: relative;
     display: -ms-flexbox;
@@ -4688,6 +4692,7 @@ input[type=submit].btn-block {
 .navbar-light .navbar-brand {
     color: rgba(0, 0, 0, .9)
 }
+
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
