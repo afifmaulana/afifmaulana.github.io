@@ -1,0 +1,325 @@
+/* only small desktops */
+/* css */
+/* tablets */
+@media (min-width: 992px) {
+}
+/* only small tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+    .product-title {
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 1;
+        color: #222222;
+    }
+    .product-subtitle {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 1;
+        color: #222222;
+    }
+    .px-277 {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+    .title-primary-50 {
+        color: #ad1e23;
+        font-weight: 800;
+        font-size: 40px;
+        margin: 0 0px;
+    }
+
+    .product-image-carousel {
+        height: 300px;
+        width: 300px;
+        background-position: center;
+        background-repeat: no-repeat;
+        object-fit: cover;
+    }
+}
+/* mobile or only mobile */
+@media (max-width: 600px) and (max-width: 767px) {
+    .navbar-light .navbar-nav .nav-link {
+        color: #1150a1;
+    }
+    .photo-gallery h2 {
+        margin-bottom: 25px;
+        padding-top: 25px;
+        font-size: 24px;
+    }
+
+    .btn--primary {
+        color: white;
+        background: #ad1e23;
+        letter-spacing: 1px;
+        line-height: 15px;
+        font-size: 12px;
+        text-align: center;
+        border-radius: 40px;
+        background: #ad1e23;
+        transition: all 0.3s ease 0s;
+        padding-left: 20px;
+        padding-right: 20px;
+        border: solid 1.5px #ad1e23;
+    }
+
+    .btn--primary:hover {
+        color: #ad1e23;
+        background: transparent;
+    }
+
+    .btn--outline-primary {
+        color: #ad1e23;
+        background: transparent;
+        letter-spacing: 1px;
+        line-height: 15px;
+        font-size: 12px;
+        text-align: center;
+        border-radius: 40px;
+        transition: all 0.3s ease 0s;
+        border: solid 1.5px #ad1e23;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .btn--outline-primary:hover {
+        color: #fff;
+        background: #ad1e23;
+    }
+
+    .bg-image-map {
+        height: auto;
+        width: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+        /* background-size: cover;
+        background-blend-mode: overlay; */
+    }
+
+    .section-title {
+        font-weight: 600;
+        font-size: 18px;
+        color: #ad1e23;
+    }
+    .title-black {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        color: #222222;
+    }
+    .px-277 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .px-190 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .py-300 {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .card-text {
+        font-size: 12px;
+    }
+    /* .subtitle {
+        color: #222222;
+        font-size: 16px;
+        line-height: 190%;
+    } */
+    .title {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 800;
+        font-size: 16px;
+        color: #ad1e23;
+    }
+    .product-title {
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 1;
+        color: #222222;
+    }
+    .product-subtitle {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 1;
+        color: #222222;
+    }
+    .img-product {
+        background-size: cover;
+        padding-top: 3rem;
+        margin-left: 3rem;
+        margin-right: 0;
+    }
+
+    .title-primary-50 {
+        color: #ad1e23;
+        font-weight: 800;
+        font-size: 22px;
+        margin: 0 0px;
+    }
+
+    .title-primary-80 {
+        color: #ad1e23;
+        font-weight: 800;
+        font-size: 22px;
+        margin: 0 0px;
+    }
+
+    .hero-title {
+        font-weight: 800;
+        font-size: 60px;
+    }
+
+    /* .px-277 {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    } */
+
+    .title-collab {
+        font-size: 25px;
+    }
+
+    .px-100 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .ml-n15 {
+        margin-left: 0px;
+    }
+
+    .arrow-long-right {
+        width: 30px;
+    }
+
+    .arrow-long-left {
+        width: 30px;
+    }
+
+    .me-n5 {
+        margin-right: 0;
+    }
+
+    .image-carousel {
+        height: 150px !important;
+        width: auto !important;
+    }
+    .title-white {
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 131.9%;
+        color: #FFFFFF;
+    }
+    .contact-title {
+        font-size: 22px;
+        font-weight: 800;
+        color: #ad1e23;
+    }
+    .hero-title {
+        font-weight: 800;
+        font-size: 45px;
+        line-height: 131.9%;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .text-scroll {
+        font-size: 12px;
+    }
+    .text-black-35 {
+        font-size: 22px;
+        line-height: 130%;
+        color: #222222;
+    }
+    .blog-title {
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 149.4%;
+        color: #222222;
+        text-decoration: none;
+    }
+    .title-detail {
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 143.9%;
+        text-align: center;
+        color: #AD1E23;
+    }
+    .px-240 {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+    .category-our-program {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 130%;
+        color: #AD1E23
+    }
+    .text-question {
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 143.9%;
+        color: #000000;
+    }
+    .title-primary-65 {
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 143.9%;
+        color: #AD1E23;
+    }
+
+    .second-section-title {
+        font-style: italic;
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 190%;
+        color: #222222;
+    }
+    .text-our-export {
+        font-weight: 800;
+        font-size: 16px;
+        line-height: 130%;
+        color: #FFFFFF
+    }
+    .title-slide {
+        color: white;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 131.9%;
+    }
+    .number-primary {
+        color: #ad1e23;
+        font-size: 60px;
+        font-weight: 800;
+    }
+    .title-section-about-us {
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 143.9%;
+        color: #AD1E23;
+    }
+    .first-section-title {
+        font-weight: 800;
+        font-size: 19px;
+        line-height: 130%;
+        color: #222222;
+    }
+    .section-title-our-program {
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 130%;
+        color: #FFFFFF;
+    }
+    .title-h6 {
+        font-weight: 500;
+        font-size: 18px;
+    }
+    .title-h2 {
+        font-weight: 600;
+        font-size: 28px;
+    }
+    .copyright-style {
+        background-color: #093063;
+        padding: 10px 10px;
+        
+    }
+}
