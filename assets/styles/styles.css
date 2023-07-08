@@ -559,7 +559,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: overlay;
-    background-image: url("../img/hero/hero1.jpg");
+    background-image: url("../img/hero/hero.jpg");
         /* linear-gradient(180deg, transparent, #e8410d 100%); */
 }
 .hero-about-us-mobile {
@@ -1609,3 +1609,4 @@ ul.timeline > li:before {
         margin-bottom: 10px
     }
 }
+
